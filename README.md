@@ -146,8 +146,8 @@ For a detailed architecture diagram, see [crm-architecture-diagram.md](crm-archi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crm.git
-   cd crm
+   git clone https://github.com/Digvijay2347/B2B-Customer-Relationship-Management-CRM-.git
+   cd **folder_created_name**
    ```
 
 2. Install dependencies:
@@ -161,7 +161,7 @@ For a detailed architecture diagram, see [crm-architecture-diagram.md](crm-archi
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:3000](http://localhost:5173) in your browser.
 
 ### Available Scripts
 
